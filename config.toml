@@ -1,0 +1,6 @@
+SearchList = [
+    "ThreadInspection \\((\\d+) msec.\\)",
+    ]
+#    "ThreadInspection \\((\\d+) msec.\\)",
+#    "\\[(\\S{2,7}):(\\d+.\\d+)\\(ms\\)",
+
